@@ -1,4 +1,5 @@
 import Hero from '@/components/hero'
+import HowItWorks from '@/components/how-it-works'
 import Navbar from '@/components/navbar'
 import Features from '@/components/ui/features'
 
@@ -9,6 +10,7 @@ export default function Home() {
         <Navbar />
         <Hero />
         <Features />
+        <HowItWorks />
       </main>
     </div>
   )
