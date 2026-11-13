@@ -25,7 +25,7 @@ function Hero() {
   return (
     <section
       id="top"
-      className="relative mx-auto grid min-h-205 max-w-350 items-center gap-14 px-5 pt-36 sm:px-8 lg:grid-cols-[.86fr_1.14fr] lg:px-20 lg:pt-28"
+      className="relative mx-auto grid min-h-205 max-w-350 items-center gap-14 px-5 pb-24 pt-36 sm:px-8 lg:grid-cols-[.86fr_1.14fr] lg:px-20 lg:pt-28"
     >
       <div className="absolute left-[8%] top-32 h-64 w-64 rounded-full bg-primary/15 blur-[110px]" />
       <div className="relative z-10 max-w-155">
